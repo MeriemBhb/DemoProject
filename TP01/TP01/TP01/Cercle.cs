@@ -14,5 +14,24 @@ namespace TP01
         {
             Rayon = rayon;
         }
+
+
+        public override double Aire => CalculerAire();
+        public override double Perimetre => CalculerPerimetre();
+
+        public override  double CalculerAire()
+        {
+            return Math.PI * Math.Pow(3, 2); // rayon =3
+        }
+
+        public override double CalculerPerimetre()
+        {
+            return 2 * Math.PI * 3; // rayon =3
+        }
+
+        public override string ToString()
+        {
+            return $"Cercle - Rayon: {Rayon}{Environment.NewLine}{base.ToString()}";
+        }
     }
 }

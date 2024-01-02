@@ -14,7 +14,29 @@ namespace TP01
         public Rectangle(double longueur, double largeur)
         {
             Longueur = longueur;
-            Largeur = largeur;
+            Longueur = largeur;
         }
+
+        public override double Aire => CalculerAire();
+        public override double Perimetre => CalculerPerimetre();
+
+        public override double CalculerAire() // longueur = 4 , largeur = 3
+
+        {
+            return Longueur * Largeur;
+        }
+
+        public override double CalculerPerimetre()
+        {
+            return 2 * (Longueur + Largeur);
+        }
+
+        public override string ToString()
+        {
+            return $"Rectangle - Longueur: {Longueur}, Largeur: {Largeur}{Environment.NewLine}{base.ToString()}";
+        }
+
+
+
     }
 }
