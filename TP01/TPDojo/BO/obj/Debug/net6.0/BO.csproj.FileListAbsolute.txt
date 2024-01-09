@@ -1,0 +1,12 @@
+C:\Users\mbouhbou2023\Documents\DemoProject\TP01\TPDojo\BO\bin\Debug\net6.0\BO.deps.json
+C:\Users\mbouhbou2023\Documents\DemoProject\TP01\TPDojo\BO\bin\Debug\net6.0\BO.dll
+C:\Users\mbouhbou2023\Documents\DemoProject\TP01\TPDojo\BO\bin\Debug\net6.0\BO.pdb
+C:\Users\mbouhbou2023\Documents\DemoProject\TP01\TPDojo\BO\obj\Debug\net6.0\BO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbouhbou2023\Documents\DemoProject\TP01\TPDojo\BO\obj\Debug\net6.0\BO.AssemblyInfoInputs.cache
+C:\Users\mbouhbou2023\Documents\DemoProject\TP01\TPDojo\BO\obj\Debug\net6.0\BO.AssemblyInfo.cs
+C:\Users\mbouhbou2023\Documents\DemoProject\TP01\TPDojo\BO\obj\Debug\net6.0\BO.csproj.CoreCompileInputs.cache
+C:\Users\mbouhbou2023\Documents\DemoProject\TP01\TPDojo\BO\obj\Debug\net6.0\BO.sourcelink.json
+C:\Users\mbouhbou2023\Documents\DemoProject\TP01\TPDojo\BO\obj\Debug\net6.0\BO.dll
+C:\Users\mbouhbou2023\Documents\DemoProject\TP01\TPDojo\BO\obj\Debug\net6.0\refint\BO.dll
+C:\Users\mbouhbou2023\Documents\DemoProject\TP01\TPDojo\BO\obj\Debug\net6.0\BO.pdb
+C:\Users\mbouhbou2023\Documents\DemoProject\TP01\TPDojo\BO\obj\Debug\net6.0\ref\BO.dll
